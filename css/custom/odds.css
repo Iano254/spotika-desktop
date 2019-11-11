@@ -1,0 +1,73 @@
+.odds{
+    background-color: transparent;
+   margin-bottom:15px;
+}
+.htt{
+    font-size:12px;
+    font-weight:bold;
+}
+.htts{
+    font-size:11px;
+    font-weight:bold;
+    color:white!important;
+}
+.meta-t{
+    color:#fff;
+    font-weight:bold;
+    font-size:12px;
+}
+.meta-tt{
+    color:#000;
+    font-weight:bold;
+    font-size:12px;
+}
+.odd-selector{
+    padding:10px 5px;
+    background-color: #680008;
+    color:white;
+    text-align: center;
+    font-size:13px;
+    transition: all ease .5s;
+
+}
+.odd-selector:hover{
+    cursor: pointer;
+    background-color: #F7CD00;
+}
+
+.odd-selector-2{
+    background-color: #680008;
+    color:white;
+    transition: all ease .5s;
+    font-size:13px;
+}
+.odd-selector-2:hover{
+    cursor: pointer;
+    background-color: #F7CD00;
+}
+.odd-selector-wrapper{
+    padding-top:15px;
+}
+
+.odd-sec{
+    padding:5px 5px 15px 5px;
+    background-color:#AF0512;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+}
+
+.betslip-wrapper{
+    background-color:#fff;
+}
+
+.league span{
+    color:white!important;
+}
+
+.yellow-txt{
+    color:#F7CD00;
+}
+
+.heading-t{
+    padding:15px 15px 15px 15px;
+    background-color:transparent;
+}
