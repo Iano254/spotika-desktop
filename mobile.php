@@ -26,7 +26,7 @@
   
 
   <?php include 'components/mobile-header.php';?>
-  <?php include 'components/slider.php';?>
+  <?php include 'components/slider-mobile.php';?>
   <?php include 'components/markets/mobile-highlights.php';?>
   
   <?php include 'components/footer.php';?>

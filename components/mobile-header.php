@@ -1,11 +1,11 @@
 <header style="margin-bottom:5px;">
 <div class="login-section">
     
-<div class="input-f" style="overflow: hidden; display: flex; justify-content: space-around!important;">
-<button style=" color:black;padding-left:45px; padding-right:45px; " class="btn btn-secondary " type="button" id="dropdownMenuButton" >
+<div class="input-f" style="overflow: hidden; display: flex; justify-content: space-around!important; ">
+<button style=" color:black;padding-left:45px; padding-right:45px;border-radius: 0px; " class="btn btn-secondary " type="button" id="dropdownMenuButton" >
                     REGISTER NOW
                 </button>
-                <button style=" color:#F7CD00; background-color:#AF0512; padding-left:45px; padding-right:45px;" class="btn btn-secondary " type="button" id="dropdownMenuButton" >
+                <button style=" color:#F7CD00; background-color:#AF0512; padding-left:45px; padding-right:45px; border-radius: 0px;" class="btn btn-secondary " type="button" id="dropdownMenuButton" >
                     LOGIN
                 </button>
 </div>
